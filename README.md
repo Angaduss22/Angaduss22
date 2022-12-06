@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Angaduss
+- 👋 Hi, I’m @Angad
 - 👀 I’m interested in Analytics & Data Science
 - 🌱 I’m currently learning Learning Data Analytics
 - 💞️ I’m looking to collaborate on ...
